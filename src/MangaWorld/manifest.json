@@ -3,7 +3,7 @@
   "name": "MangaWorld",
   "description": "MangaWorld is a manga provider for MangaWorld. It mainly focuses on Italian manga.",
   "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-manga-providers/refs/heads/main/src/MangaWorld/manifest.json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "kRYstall9",
   "type": "manga-provider",
   "language": "typescript",
