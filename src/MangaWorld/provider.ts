@@ -2,7 +2,7 @@
 /// <reference path='./core.d.ts' />
 
 class Provider {
-    private api = "https://www.mangaworld.mx";
+    private api = "{{api}}";
 
     getSettings(): Settings {
         return {
